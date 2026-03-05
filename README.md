@@ -1,5 +1,7 @@
 # Day-08
 Data Breach Awareness &amp; Threat Intelligence Basics
+
+
 1️⃣ Breach Search Observation
 
 I used the website HaveIBeenPwned to check whether an email address was involved in any data breach.
